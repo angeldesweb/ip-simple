@@ -1,4 +1,4 @@
-#  Ip simple tool [status: in progress (shields.io)](https://img.shields.io/badge/status-in%20progress-yellow)
+#  Ip simple tool [![Generic badge](https://img.shields.io/badge/status-in_progress-yellow.svg)](https://shields.io/)
 
 > Ipv4 scope finder, netmask to prefix converter, and ipv4 and netmask validations
 
