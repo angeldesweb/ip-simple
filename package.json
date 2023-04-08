@@ -30,8 +30,14 @@
         "singleQuote": true,
         "trailingComma": "es5"
     },
-    "name": "networking",
-    "author": "Ángel Zamora",
+    "name": "ip-simple-tool",
+    "description": "ip subnetting and validation handler",
+    "keywords": ["subnetting","tcp","ip"],
+    "author": "Ángel Zamora <angeldesweb@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/angeldesweb/ip-simple.git"
+    },
     "module": "dist/networking.esm.js",
     "size-limit": [
         {
